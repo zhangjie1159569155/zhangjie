@@ -1,3 +1,5 @@
 Main{
 	print "Hello World"
 }
+test{
+}
